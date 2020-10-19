@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">dividirRed</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="lista_de_proyectos">Lista de Proyectos</string>
+    <string name="plus">+</string>
+    <string name="less">-</string>
+    <string name="descripci_n">descripción</string>
+    <string name="ip">IP</string>
+    <string name="nombre_del_proyecto">nombre del proyecto</string>
+    <string name="mascara">mascara</string>
+    <string name="nodos">nodos</string>
+</resources>

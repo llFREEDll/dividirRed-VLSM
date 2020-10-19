@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078163456207",
+    "firebase_url": "https://dividirred.firebaseio.com",
+    "project_id": "dividirred",
+    "storage_bucket": "dividirred.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078163456207:android:54b05850a28ac34526b7ba",
+        "android_client_info": {
+          "package_name": "com.alfredo.dividirred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078163456207-4ol3vv759bvfm7tq4hn1e43v1421fh6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jEEKavdxmeRtxrP4uBEoLbeg96rhwk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078163456207-4ol3vv759bvfm7tq4hn1e43v1421fh6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
